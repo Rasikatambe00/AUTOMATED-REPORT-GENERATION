@@ -1,0 +1,6 @@
+Product,Units Sold,Revenue
+Laptop,25,25000
+Mouse,120,2400
+Keyboard,80,5600
+Monitor,40,16000
+Headset,60,4800
