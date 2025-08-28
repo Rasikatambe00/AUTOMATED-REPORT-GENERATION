@@ -29,7 +29,9 @@ This repo contains:
 
 ---
 ##Output of the code
-[sales_report.pdf](https://github.com/user-attachments/files/22021642/sales_report.pdf)
+<img width="816" height="534" alt="image" src="https://github.com/user-attachments/assets/aedc664c-0d2d-494b-a224-5e4d5dc3c1f9" />
+
+
 
 
 ## 🗂️ File Structure
